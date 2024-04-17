@@ -1,0 +1,94 @@
+{
+    "restaurant" : [
+        {
+            "lat": 37.653743,
+            "lng": 126.776286,
+            "name" : "대동관 일산마두점",
+            "address1" : "경기 고양시 일산동구",
+            "address2" : "중앙로 1199",
+            "address_jibun" : "장항동 890-1",
+            "address3" : "영일빌딩 2층",
+            "open_time" : 1100,
+            "close_time" : 2130,
+            "tel" : "0319086660",
+            "parking" : true,
+            "star" : 5,
+            "link" : {
+                "daum" : "http://place.map.daum.net/12741404",
+                "naver" : "https://store.naver.com/restaurants/detail?id=13590329"
+            },
+            "comment" : "",
+            "menu" : [
+                {
+                "price" : "69000",
+                "title" : "어복쟁반(대)"
+                }, {
+                "price" : "45000",
+                "title" : "어복쟁반(중)"
+                }, {
+                "price" : "22000",
+                "title" : "불고기"
+                }, {
+                "price" : "22000",
+                "title" : "제육"
+                }, {
+                "price" : "11000",
+                "title" : "제육(반)"
+                }, {
+                "price" : "10000",
+                "title" : "온반"
+                }, {
+                "price" : "10000",
+                "title" : "녹두전(1장)"
+                }, {
+                "price" : "10000",
+                "title" : "평양냉면"
+                }, {
+                "price" : "10000",
+                "title" : "비빔냉면"
+                }, {
+                "price" : "10000",
+                "title" : "거냉면"
+                }, {
+                "price" : "10000",
+                "title" : "온면"
+                }, {
+                "price" : "10000",
+                "title" : "접시만두"
+                }, {
+                "price" : "10000",
+                "title" : "만두국"
+                }, {
+                "price" : "6000",
+                "title" : "만두반"
+                }, {
+                "price" : "43000",
+                "title" : "만두전골(대)"
+                }, {
+                "price" : "32000",
+                "title" : "만두전골(중)"
+                }
+            ]
+        },
+        {
+            "lat": 36.6207939,
+            "lng": 127.5103919,
+            "name" : "소순주한우마당",
+            "address1" : "충북 청주시 상당구",
+            "address2" : "용암북로 132",
+            "address_jibun" : "용암동 2552",
+            "address3" : "",
+            "open_time" : 1100,
+            "close_time" : 2130,
+            "tel" : "0432920715",
+            "parking" : true,
+            "star" : 0.5,
+            "link" : {
+                "daum" : "http://place.map.daum.net/9562477",
+                "naver" : "https://store.naver.com/restaurants/detail?id=32308311"
+            },
+            "comment" : "",
+            "menu" : [{ "price" : "12000", "title" : "평양냉면" }]
+        }
+    ]
+}

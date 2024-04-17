@@ -1,0 +1,1 @@
+![평양냉면 메인](./pynm/Assets/launchscreen.jpeg)
